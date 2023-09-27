@@ -3,7 +3,7 @@
  * Description : TO CHECK WHETHER A NO IS POSITIVE OR NEGATIVE
  * Author      : Naveen
  * Version     : 1.0
- * Date        : 26/09/2023
+ * Date        : 27/09/2023
  * 
  */
 import java.util.Scanner;
